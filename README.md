@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/adebimpecole/intro-component-with-signup-form.git)
+- Solution URL: [Add solution URL here](https://github.com/adebimpecole/profile.git)
 - Live Site URL: [Add live site URL here](https://mellifluous-taffy-1a3147.netlify.app/)
 
 ## My process
