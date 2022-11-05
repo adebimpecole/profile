@@ -1,7 +1,5 @@
 # Profile - Zuri Task 1
 
-This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -26,12 +24,12 @@ Users should be able to:
 ### Screenshot
 
 ![](screenshot1.png)
-![](screenshot3.png)
+![](screenshot2.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/adebimpecole/profile.git)
-- Live Site URL: [Add live site URL here](https://soft-eclair-07ffdb.netlify.app/contact)
+- Live Site URL: [Add live site URL here](https://mellifluous-taffy-1a3147.netlify.app/)
 
 ## My process
 
