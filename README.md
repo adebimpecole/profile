@@ -26,12 +26,12 @@ Users should be able to:
 ### Screenshot
 
 ![](screenshot1.png)
-![](screenshot2.png)
+![](screenshot3.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/adebimpecole/profile.git)
-- Live Site URL: [Add live site URL here](https://mellifluous-taffy-1a3147.netlify.app/)
+- Live Site URL: [Add live site URL here](https://soft-eclair-07ffdb.netlify.app/contact)
 
 ## My process
 
@@ -59,5 +59,5 @@ const Show = (data) => {
 
 ## Author
 
-- Website - [Cole Mary](https://mellifluous-taffy-1a3147.netlify.app/)
+- Website - [Cole Mary](https://soft-eclair-07ffdb.netlify.app/contact)
 - Twitter - [@adecole02](https://twitter.com/adecole02)
